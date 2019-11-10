@@ -15,7 +15,7 @@ Now in the terminal on your computer
 3. ```cd whack-a-coder-javascript-project```
 4. ```bundle install```
 
-Now we run the Backend rails server in a serperate tab by the following
+Now we run the Backend rails server in a seperate tab by the following
 1. ```<cmd + t>```
 2. ```cd BackEnd```
 3. ```cd whack-a-coder-api```
